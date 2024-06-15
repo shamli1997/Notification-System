@@ -12,7 +12,7 @@ In this inaugural project, you will construct a sophisticated system that monito
 
 Here's a walkthrough of implemented features:
 
-<img src='[https://github.com/shamli1997/web102_prework/blob/main/pre-work.gif](https://github.com/shamli1997/Notification-System/blob/main/notification-system-demo.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/shamli1997/Notification-System/blob/main/notification-system-demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Key Components
 
