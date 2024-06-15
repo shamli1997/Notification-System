@@ -6,7 +6,7 @@ In this inaugural project, you will construct a sophisticated system that monito
 
 ## Architecture Diagram
 
-
+![AWS Architecture Diagram] [https://github.com/shamli1997/Notification-System/blob/main/notification-system-architecture.png]
 
 ## Key Components
 
